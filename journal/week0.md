@@ -5,9 +5,11 @@
 ### To setup our aws cli
 
 ```
-I was able to setup the aws cli pretty easily. I attached an image of the cli version below. 
+I was able to setup the aws cli pretty easily. I attached an image of the cli version and caller identity below. 
 ```
 ![aws-cli Image](./images/aws-cli.jpg)
+
+![caller-identity](/images/aws-cli2.jpg)
 
 ---
 
