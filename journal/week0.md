@@ -4,7 +4,7 @@
 
 ### Create logical architecture
 
-![Logical architecture diagram Image](https://drive.google.com/file/d/1EX1t95-cx4nnSVV5dYzib8tvuQwY7Zbm/view?usp=sharing)
+![Logical architecture diagram Image](./images/crud-arch.jpg)
 
 
 [Link to the Logical architecture diagram](https://lucid.app/lucidchart/c8bc3812-1111-4fdc-a7a8-4221d9597f9a/edit?viewport_loc=522%2C54%2C2348%2C1013%2C0_0&invitationId=inv_bd414ebf-ad6a-448c-8c87-a8295855b61e)
