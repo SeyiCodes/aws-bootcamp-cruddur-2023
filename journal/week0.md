@@ -9,7 +9,7 @@ I was able to setup the aws cli pretty easily. I attached an image of the cli ve
 ```
 ![aws-cli Image](./images/aws-cli.jpg)
 
-![caller-identity](/images/aws-cli2.jpg)
+![caller-identity](./images/aws-cli2.jpg)
 
 ---
 
