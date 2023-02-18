@@ -2,7 +2,11 @@
 
 ## Our assignment this week
 
-### Create logical architecture
+### To setup our project budget
+
+![Budget Image](./images/budget.jpg)
+
+### To recreate the  logical architecture
 
 ![Logical architecture diagram Image](./images/crud-arch.jpg)
 
