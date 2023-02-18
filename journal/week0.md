@@ -9,6 +9,7 @@ I was able to setup the aws cli pretty easily. I attached an image of the cli ve
 ```
 ![aws-cli Image](./images/aws-cli.jpg)
 
+---
 
 ### To setup our project budgets
 
