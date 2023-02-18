@@ -2,9 +2,15 @@
 
 ## Our assignment this week
 
+### To setup our aws cli
+
+```
+I was able to setup the aws cli pretty easily. I attached an image of the cli version below. 
+```
+![aws-cli Image](./images/aws-cli.jpg)
 
 
-### To setup our project budget
+### To setup our project budgets
 
 ![Budget Image](./images/budget.jpg)
 
