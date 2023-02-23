@@ -15,9 +15,9 @@ services:
     build: ./frontend-react-js
     ports:
       - "3000:3000"
+    stdin_open: true
     volumes:
       - ./frontend-react-js:/frontend-react-js
-
 # the name flag is a hack to change the default prepend folder
 # name when outputting the image names
 networks: 
