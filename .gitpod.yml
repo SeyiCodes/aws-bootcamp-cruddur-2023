@@ -9,7 +9,6 @@ vscode:
     - christian-kohler.npm-intellisense
     - ms-python.python
     - christian-kohler.path-intellisense
-    - ms-kubernetes-tools.vscode-kubernetes-tools
     - DavidAnson.vscode-markdownlint
     - ms-azuretools.vscode-docker
     - rogalmic.bash-debug
