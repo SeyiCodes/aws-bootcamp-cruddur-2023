@@ -4,18 +4,15 @@ vscode:
     - 42Crunch.vscode-openapi
     - amazonwebservices.aws-toolkit-vscode
     - redhat.ansible
-    - shakram02.bash-beautify
     - dbaeumer.vscode-eslint
     - hashicorp.terraform
     - christian-kohler.npm-intellisense
     - ms-python.python
-    - ms-python.vscode-pylance
     - christian-kohler.path-intellisense
     - ms-kubernetes-tools.vscode-kubernetes-tools
     - DavidAnson.vscode-markdownlint
     - ms-azuretools.vscode-docker
     - rogalmic.bash-debug
-    - redhat.vscode-yaml
     - cweijan.vscode-postgresql-client2
 
 
