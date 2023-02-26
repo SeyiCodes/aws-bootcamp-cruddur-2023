@@ -6,11 +6,8 @@ COPY . /frontend-react-js
 WORKDIR /frontend-react-js
 RUN npm install
 
-RUN apt-get update
-
-RUN set -ex; \
-    apt-get -y install --no-install-recommends \
-        curl=7.64.0-4+deb10u1
+RUN apt-get update \
+    && apt-get install -y curl
         
 EXPOSE ${PORT}
 CMD ["npm", "start"]

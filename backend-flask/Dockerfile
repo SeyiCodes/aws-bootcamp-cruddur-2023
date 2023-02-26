@@ -9,12 +9,8 @@ COPY . .
 
 ENV FLASK_ENV=development
 
-
-RUN apt-get update
-
-RUN set -ex; \
-    apt-get -y install --no-install-recommends \
-        curl=7.64.0-4+deb10u1 
+RUN apt-get update \
+    && apt-get install -y curl
 
 EXPOSE ${PORT}
 
